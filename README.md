@@ -1,2 +1,2 @@
 # html-portfolio
-My portfolio journey as a web dveloper beginner
+My first portfolio journey as a web dveloper beginner
